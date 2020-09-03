@@ -13,3 +13,5 @@ https://www.figma.com/file/tZExZYEvXdVPMNp5EW6eSn/Untitled?node-id=0%3A1
 
 Link Trello     :
 https://trello.com/b/p7IrEtQD/aplikasi-pemesanan-tiket-kereta
+
+Link Google Docs : https://docs.google.com/document/d/1RffU5xFOQJDp-ruca-a5hSfPuCBh2AJpd4ILlFln5yA/edit
